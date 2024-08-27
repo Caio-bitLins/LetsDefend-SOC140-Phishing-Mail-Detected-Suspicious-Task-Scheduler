@@ -47,6 +47,11 @@ Para criar o playbook fiz o seguintes passos:
 ![Captura de Tela 2024-08-27 às 19 47 05](https://github.com/user-attachments/assets/88dd846f-c0f3-40f6-bafd-003c2a2342e0)
 
 
+# Obrigado por ler até aqui! <3
+<img src="https://media.tenor.com/qVKlQMB2DpsAAAAM/hacker-hacking.gif" width="230"></h2>
+
+
+
 
 
 
