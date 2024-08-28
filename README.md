@@ -40,7 +40,6 @@ Para criar o playbook fiz o seguintes passos:
 
 ![Captura de Tela 2024-08-27 às 19 20 08](https://github.com/user-attachments/assets/941334c1-8d0a-4525-a5d5-06f6534f70c3)
 ![image](https://github.com/user-attachments/assets/87716569-8114-4c3c-99a2-c0b78aad8375)
-![image](https://github.com/user-attachments/assets/4646d6ce-a6b2-4e7d-b4ef-80712a038678)
 ![image](https://github.com/user-attachments/assets/428f9db4-0a9a-42b0-966f-a8cff7f014ae)
 ![Captura de Tela 2024-08-27 às 19 43 00](https://github.com/user-attachments/assets/cc5faec7-7a69-41a9-af74-17f02d3c80ad)
 ![Captura de Tela 2024-08-27 às 19 44 32](https://github.com/user-attachments/assets/d1608155-dd26-4aa0-aac7-17b561194062)
